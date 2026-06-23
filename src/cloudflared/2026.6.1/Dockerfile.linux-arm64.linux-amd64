@@ -1,0 +1,1 @@
+FROM --platform=$TARGETPLATFORM cloudflare/cloudflared:2026.6.1  AS base

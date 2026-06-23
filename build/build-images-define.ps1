@@ -145,7 +145,7 @@ $buildImageList = @(
     # "busybox:latest",
     # "beszel:0.10",
     # "beszel-agent:0.10",
-    "playwright:v1.53.0-jammy",
+    # "playwright:v1.53.0-jammy",
     # "playwright:v1.54.0-jammy",
     # "nextcloud:30-apache",
     # "nextcloud:30-fpm",
@@ -172,6 +172,7 @@ $buildImageList = @(
     # "new-api:v0.11.5",
     # "plantuml-server:v1.2026.2",
     # "victoria-metrics:v1.131.0",
+    "cloudflared:2026.6.1",
     ""
 )
 
