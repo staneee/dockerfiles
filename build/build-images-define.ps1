@@ -226,7 +226,7 @@ $syncRenameDict = @{
     # "mcr.microsoft.com/windows/servercore:ltsc2022" = "windows-servercore:ltsc2022",
     "pgvector/pgvector:pg16" = "pgvector:pg16"
     "chatwoot/chatwoot:latest" = "chatwoot:latest"
-    "chatwoot/chatwoot:latest-uc" = "chatwoot:latest-uc"
+    "chatwoot/chatwoot:latest-ce" = "chatwoot:latest-ce"
     "chatwoot/chatwoot:v4.15.1" = "chatwoot:v4.15.1"
-    "chatwoot/chatwoot:v4.15.1-uc" = "chatwoot:v4.15.1-uc"
+    "chatwoot/chatwoot:v4.15.1-ce" = "chatwoot:v4.15.1-ce"
 }
