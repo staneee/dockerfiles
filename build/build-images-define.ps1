@@ -65,6 +65,7 @@ $buildImageList = @(
     # "self-signed-ssl:openssl-1.1.1",
     # "redis:6.0.16",
     # "redis:6.2.4",
+    "redis:8.8.0",
     # "keepalived:2.0.20",
     # "keepalived:2.0.20-docker",
     # "rabbitmq:3.11.10-management",
@@ -224,9 +225,9 @@ $syncSample = @(
 $syncRenameDict = @{
     # "mcr.microsoft.com/windows/nanoserver:ltsc2022" = "windows-nanoserver:ltsc2022",
     # "mcr.microsoft.com/windows/servercore:ltsc2022" = "windows-servercore:ltsc2022",
-    "pgvector/pgvector:pg16" = "pgvector:pg16"
-    "chatwoot/chatwoot:latest" = "chatwoot:latest"
-    "chatwoot/chatwoot:latest-ce" = "chatwoot:latest-ce"
-    "chatwoot/chatwoot:v4.15.1" = "chatwoot:v4.15.1"
-    "chatwoot/chatwoot:v4.15.1-ce" = "chatwoot:v4.15.1-ce"
+    # "pgvector/pgvector:pg16" = "pgvector:pg16"
+    # "chatwoot/chatwoot:latest" = "chatwoot:latest"
+    # "chatwoot/chatwoot:latest-ce" = "chatwoot:latest-ce"
+    # "chatwoot/chatwoot:v4.15.1" = "chatwoot:v4.15.1"
+    # "chatwoot/chatwoot:v4.15.1-ce" = "chatwoot:v4.15.1-ce"
 }

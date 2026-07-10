@@ -1,0 +1,1 @@
+FROM --platform=$TARGETPLATFORM redis:8.8.0  AS base
