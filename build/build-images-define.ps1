@@ -172,7 +172,7 @@ $buildImageList = @(
     # "new-api:v0.11.5",
     # "plantuml-server:v1.2026.2",
     # "victoria-metrics:v1.131.0",
-    "cloudflared:2026.6.1",
+    # "cloudflared:2026.6.1",
     ""
 )
 
@@ -217,6 +217,11 @@ $syncSample = @(
     # "steamcmd/steamcmd:ubuntu-22",
     # "privoce/vocechat-server:v0.5.8",
     # "privoce/vocechat-server:v0.5.16",
+    "pgvector/pgvector:pg16",
+    "chatwoot/chatwoot:latest",
+    "chatwoot/chatwoot:latest-uc",
+    "chatwoot/chatwoot:v4.15.1",
+    "chatwoot/chatwoot:v4.15.1-uc",
     ""
 )
 
